@@ -231,7 +231,7 @@ export const recipes: Recipe[] = [
     name: "Brandy Alexander",
     directions: "Combine, shake, ground nutmeg on top!",
     content: null,
-    color: "gray",
+    color: "blue",
     ingredients: [
       { name: "Serves", amount: 1 },
       { name: "Brandy", amount: 1.5 },
