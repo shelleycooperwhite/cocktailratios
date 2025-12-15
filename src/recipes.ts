@@ -226,5 +226,17 @@ export const recipes: Recipe[] = [
       { name: "Limencello", amount: 2 },
       { name: "Soda", amount: 1 },
     ]
+  },
+  {
+    name: "Brandy Alexander",
+    directions: "Combine, shake, ground nutmeg on top!",
+    content: null,
+    color: "gray",
+    ingredients: [
+      { name: "Serves", amount: 1 },
+      { name: "Brandy", amount: 1.5 },
+      { name: "Crème de Cacao (dark)", amount: 1 },
+      { name: "Cream", amount: 1 },
+    ]
   }
 ]
