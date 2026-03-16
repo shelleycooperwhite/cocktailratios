@@ -247,7 +247,7 @@ export const recipes: Recipe[] = [
     ingredients: [
       { name: "Serves", amount: 1 },
       { name: "Spiced rum", amount: 1.5 },
-      { name: "Orange curaçao or triple sec", amount: 0.75 },
+      { name: "Cointreau or triple sec", amount: 0.75 },
       { name: "Lemon juice", amount: 1 },
       { name: "Sugar syrup", amount: 0.5 },
     ]
